@@ -1,0 +1,6 @@
+{
+  "name": "Pushup and Plank Tracker",
+  "description": "A persistent countdown counter for pushups and a chip-off timer for plank exercises to log workout progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
